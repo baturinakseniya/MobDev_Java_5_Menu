@@ -31,5 +31,20 @@
             android:orderInCategory="4"
             android:title="exit">
         </item>
+        <item
+            android:id="@+id/menu_new1"
+
+            android:title="new1">
+        </item>
+        <item
+            android:id="@+id/menu_new2"
+
+            android:title="new2">
+        </item>
+        <item
+            android:id="@+id/menu_new3"
+
+            android:title="new3">
+        </item>
     </group>
 </menu>
